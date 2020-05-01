@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! Yellow !</h1>
+<h1> Hello, Welcome to Valaxy Technologies !!! Orange !</h1>
